@@ -1,0 +1,64 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+.text-color{
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-color{
+   color: #0A0826;
+}
+.card-img{
+    height: 200px;
+    width: 300px;
+}
+
+.text-size{
+    font-weight: 300;
+    font-size: 16px;
+}
+.toast-color{
+    color: rgba(0, 124, 255, 0.63);
+}
+.link{
+    text-decoration: none;
+}
+
+.button-color{
+    
+    width: 168px;
+    height: 44px;
+    border-radius: 25px;
+    background-color: white;
+    color: #3F87F5;
+    border: none;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+
+.card-color{
+    background-color: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+}
+.badge-top{
+    position: absolute;
+   left: 60%;
+   top: -2%;
+   letter-spacing: .1rem;
+}
+
+.toast-position{
+    position: absolute;
+    left: 80%;
+}
+
+.footer-line{
+    width: 100%;
+    height: 280px;
+    background-color: #0B0D17;
+}
